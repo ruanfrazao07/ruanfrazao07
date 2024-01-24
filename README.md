@@ -1,16 +1,31 @@
-### Hi there 👋
+# Olá, sou o Ruan
+<p align="left">
+  
+### Mains Skils ⬇️
 
-<!--
-**ruanfrazao07/ruanfrazao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=60px /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=60px /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=70px /></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width=70px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width=70px />
+</p>
+<br>
 
-Here are some ideas to get you started:
+### Tools ⬇️
+<p align="left">
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other Knowledge ⬇️
+<p align="left">
+  
+</p>
+<br>
+
+### My Contacts ⬇️
+<p align="left">
+  <a href="https://www.instagram.com/rfrazao_07" alt="instagram" target="_blank">
+  <img src="https://github.com/ruanfrazao07/ruanfrazao07/blob/main/imagens/Instagram.svg" width=50px margin=20px /></a>
+  <a href="https://www.linkedin.com/in/ruanfrazao07" alt="Linkedin" target="_blank">
+  <img src="https://github.com/ruanfrazao07/ruanfrazao07/blob/main/imagens/LinkedIn.svg" width="50px"/></a>
+</p>
