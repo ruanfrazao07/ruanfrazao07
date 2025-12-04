@@ -6,6 +6,8 @@
 ### Mains Skils:
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=60px /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=60px /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=60px /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=60px /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=60px /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=60px /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" width=60px /></code>
@@ -17,6 +19,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=60px /></code>
   <code><img src="https://github.com/ruanfrazao07/ruanfrazao07/blob/main/imagens/vscode.svg" width=60px /></code>
   <code><img src="https://github.com/ruanfrazao07/ruanfrazao07/blob/main/imagens/AndroidStudio.svg" width=60px /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width=60px /></code>
 </div>
 
 <div align="left">
